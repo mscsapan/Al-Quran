@@ -1,6 +1,6 @@
 class LanguageCode {
-  static const arabic = '';
-  static const bengali = '';
-  static const english = '';
-  static const suraName = '';
+  static const arabic = 'ar';
+  static const bengali = 'bn';
+  static const english = 'en';
+  static const suraName = 'sura';
 }
