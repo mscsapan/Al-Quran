@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:al_quran/src/constraints/api_link.dart';
 import 'package:http/http.dart' as http;
+
 import '../model/arabic_language_model.dart';
 
 class ArabicService {

@@ -1,8 +1,9 @@
 import 'dart:convert';
 
 import 'package:al_quran/src/constraints/api_link.dart';
-import 'package:al_quran/src/data/model/bengali_language_model.dart';
 import 'package:http/http.dart' as http;
+
+import '../model/bengali_language_model.dart';
 
 class BengaliService {
   Uri url = Uri.parse(ApiLink.bengali);
